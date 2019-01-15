@@ -1,0 +1,1 @@
+This is a website about making websites about making websites. There are pages with links to other pages. As you scroll, there will be various backgrounds, images, and text. The website is reponsive (resizes to fit window when you resize it).
